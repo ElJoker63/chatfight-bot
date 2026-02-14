@@ -60,7 +60,7 @@ SESSION_STRING=
 
 # ChatFight IDs
 CHATFIGHT_BOT_ID=691070694
-CHATFIGHT_GROUP_ID=-1002509194290
+CHATFIGHT_GROUP_ID=-100
 
 # MongoDB
 MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/
