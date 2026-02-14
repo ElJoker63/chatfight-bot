@@ -1,0 +1,15 @@
+# ChatFight Bot Dependencies
+# ============================
+
+# Telegram Bot Framework
+pyrogram>=2.0.0
+Pyrogram>=2.0.0
+
+# AI Image Analysis
+groq>=0.4.0
+
+# Database
+pymongo>=4.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
